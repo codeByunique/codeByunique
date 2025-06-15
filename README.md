@@ -26,12 +26,12 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atabul&show_icons=true&theme=radical" alt="Ataul's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atabul&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeByunique&show_icons=true&theme=radical" alt="Ataul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByunique&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/07atabul)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/codebyunique)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/codeByunique)
