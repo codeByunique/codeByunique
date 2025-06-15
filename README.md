@@ -14,7 +14,7 @@
 - 🔐 Interested in **Ethical Hacking**, **Java Backend**, and **DSA**
 - 🧠 Learning: Spring Security, React, Cloud Basics  
 - 🧑‍🤝‍🧑 I love helping others in coding & tech  
-- 📫 Reach me at: **ataul.contact@gmail.com**
+- 📫 Reach me at: **07s.atabul@gmail.com**
 
 ---
 
@@ -42,12 +42,9 @@
 
 ### 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yourchannel)  
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:ataul.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/07atabul)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@codeByunique)  
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:07s.atabul@gmail.com)
 
 ---
 
-### 🐍 Fun Touch (Animated Snake 🐍)
-```md
-![snake gif](https://github.com/codeByunique/codeByunique/blob/output/github-contribution-grid-snake.svg)
