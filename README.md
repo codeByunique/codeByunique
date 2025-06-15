@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ataul aka codeByunique</h1>
+<h1 align="center">Hey 👋, I'm Atabul aka codeByunique</h1>
 <h3 align="center">🚀 Ethical Hacker | 🧠 Java & Spring Boot Developer | 🇮🇳 From Bhagalpur, Bihar</h3>
 
 <p align="center">
