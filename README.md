@@ -1,37 +1,53 @@
-<h1 align="center">Hi 👋, I'm Atabul</h1>
-<h3 align="center">A passionate Ethical Hacker & Java Developer from India</h3>
+<h1 align="center">Hey 👋, I'm Ataul aka codeByunique</h1>
+<h3 align="center">🚀 Ethical Hacker | 🧠 Java & Spring Boot Developer | 🇮🇳 From Bhagalpur, Bihar</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/ZZ5H.gif" />
-
-- 🔭 I’m currently working on **Spring Boot Projects**
-- 🌱 I’m currently learning **Java DSA, Spring Security, React**
-- 👯 I’m looking to collaborate on **Open Source and Hackathons**
-- 💬 Ask me about **Ethical Hacking, Java, Linux**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: I love riding horses 🐎 and solving puzzles 🧩
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Learning+Ethical+Hacking+and+Java;Building+Spring+Boot+Projects;Exploring+Cybersecurity;Always+Curious+%F0%9F%A4%94" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🚀 About Me
 
-<p>
+- 🎓 B.Tech CSE Student @ NIET, Greater Noida  
+- 👨‍💻 Currently building **Stock Management System** using Spring Boot + MySQL  
+- 🔐 Interested in **Ethical Hacking**, **Java Backend**, and **DSA**
+- 🧠 Learning: Spring Security, React, Cloud Basics  
+- 🧑‍🤝‍🧑 I love helping others in coding & tech  
+- 📫 Reach me at: **ataul.contact@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeByunique&show_icons=true&theme=radical" alt="Ataul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeByunique&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeByunique&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByunique&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/07atabul)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/codeByunique)
+### 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yourchannel)  
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:ataul.contact@gmail.com)
+
+---
+
+### 🐍 Fun Touch (Animated Snake 🐍)
+```md
+![snake gif](https://github.com/codeByunique/codeByunique/blob/output/github-contribution-grid-snake.svg)
