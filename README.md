@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE Student @ NIET, Greater Noida  
 - 👨‍💻 Currently building **Stock Management System** using Spring Boot + MySQL  
 - 🔐 Interested in **Ethical Hacking**, **Java Backend**, and **DSA**
-- 🧠 Learning: Spring Security, React, Cloud Basics  
+- 🧠 Learning: Spring Security, Java, Cloud Basics  
 - 🧑‍🤝‍🧑 I love helping others in coding & tech  
 - 📫 Reach me at: **07s.atabul@gmail.com**
 
