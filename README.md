@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Ethical Hacker | 🧠 Java & Spring Boot Developer | 🇮🇳 From Bhagalpur, Bihar</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Learning+Ethical+Hacking+and+Java;Building+Spring+Boot+Projects;Exploring+Cybersecurity;Always+Curious+%F0%9F%A4%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Learning+Ethical+Hacking+and+Java;Building+Spring+Boot+Projects;Contributing+to+Open+Source;Exploring+Cybersecurity;Always+Curious+%F0%9F%A4%94" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,16 +10,14 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech CSE Student @ NIET, Greater Noida  
-- 👨‍💻 Currently building **Stock Management System** using Spring Boot + MySQL  
-- 🔐 Interested in **Ethical Hacking**, **Java Backend**, and **DSA**
-- 📚 Practicing DSA + Java for placements
-- 🧠 Learning: Spring Security, Java, Cloud Basics  
-- 🧑‍🤝‍🧑 I love helping others in coding & tech  
-- 📫 Reach me at: **07s.atabul@gmail.com**
+- 🔨 Currently working on: **DSA with Java** & **Stock Management System**  
+- 🔐 Focus Areas: **Ethical Hacking**, **Backend Development**, and **Java + DSA**
+- 🌱 Learning: Spring Security, Java, GitHub Projects
+- 🤝 I enjoy collaborating and helping others in tech  
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -31,11 +29,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📚 Notable Projects
+
+- [`📦 dsa-with-java`](https://github.com/codeByunique/dsa-with-java) – Beginner-friendly repo to practice all major DSA topics in Java 🚀  
+---
+
+### 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeByunique&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeByunique&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeByunique&count_private=true&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=codeByunique&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByunique&layout=compact&theme=radical" />
 </p>
 
@@ -49,3 +52,6 @@
 
 ---
 
+### 💡 Quote I Live By
+
+> “Code. Contribute. Collaborate. Grow. 🌱”
