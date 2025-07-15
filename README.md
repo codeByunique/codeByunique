@@ -36,7 +36,7 @@
 
 ### 📘 Study Repositories
 
-- [`📦 dsa-with-java`](https://github.com/codeByunique/dsa-with-java) – A curated collection of DSA questions and answers for Java learners, great for interview prep and practice! 🧠💻
+- [`📦 dsa-with-java`](https://github.com/codeByunique/dsa-with-java) – A curated collection of DSA questions and answers for Java learners, great for interview prep and practice!💻
 
 ### 📊 GitHub Stats (Live)
 
