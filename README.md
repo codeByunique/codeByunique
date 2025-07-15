@@ -31,9 +31,12 @@
 
 ### 📚 Notable Projects
 
-- [`📦 dsa-with-java`](https://github.com/codeByunique/dsa-with-java) – Beginner-friendly repo to practice all major DSA topics in Java 🚀
 - [`📦 Portfolio`](https://github.com/codeByunique/unique-portfolio)– A sleek, responsive personal portfolio website to showcase my skills, experience, and projects ✨
 ---
+
+### 📘 Study Repositories
+
+- [`📦 dsa-with-java`](https://github.com/codeByunique/dsa-with-java) – A curated collection of DSA questions and answers for Java learners, great for interview prep and practice! 🧠💻
 
 ### 📊 GitHub Stats (Live)
 
