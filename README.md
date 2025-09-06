@@ -32,6 +32,7 @@
 ### 📚 Notable Projects
 
 - [`📦 Portfolio`](https://github.com/codeByunique/unique-portfolio)– A sleek, responsive personal portfolio website to showcase my skills, experience, and projects ✨
+- [`🌐 Visit Live Website`](https://atabul-portfolio.netlify.app/)
 ---
 
 ### 📘 Study Repositories
