@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Atabul aka codeByunique</h1>
-<h3 align="center">Full-Stack Web Developer (Learning) | AI Tools & Automation | Java • Spring Boot • MySQL | 🇮🇳 From Bhagalpur, Bihar</h3>
+<h3 align="center">Full-Stack Web Developer (Learning) | AI Tools & Automation | Java • Spring Boot • MySQL </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Learning+Ethical+Hacking+and+Java;Building+Spring+Boot+Projects;Contributing+to+Open+Source;Exploring+Cybersecurity;Always+Curious+%F0%9F%A4%94" alt="Typing SVG" />
